@@ -19,6 +19,8 @@
 }
 
 .game-item {
+    width: 413.9px;
+    height: 267.5px;
     flex: 0 0 calc(25% - 20px);
     margin-left: 20px;
     margin-right: 20px;

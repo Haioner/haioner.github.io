@@ -47,6 +47,8 @@
 }
 
 .asset-item {
+    width: 434px;
+    height: 277px;
     flex: 0 0 calc(25% - 20px);
     margin-left: 20px;
     margin-right: 20px;
