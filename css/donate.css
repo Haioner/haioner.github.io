@@ -1,0 +1,42 @@
+.header-selections ul li:nth-child(3) a {
+    color: white;
+    text-shadow: 0px 3px 0px #161821;
+}
+
+.Donate{
+    height: 626.5px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.Donate h1{
+    color: white;
+    font-size: 4em;
+    font-weight: bolder;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+
+.qr{
+    width: 100%;
+}
+
+.Donate img{
+    width: 30vh;
+}
+
+.Donate button{
+    width: 20vh;
+    border: none;
+    border-bottom: 3px solid #161821;
+    cursor: pointer;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1em;
+    height: 2.5em;
+    margin: 10px 0;
+}
