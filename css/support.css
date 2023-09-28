@@ -1,0 +1,48 @@
+.Contact{
+    position: relative;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #161821;
+    height: 37vh;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    pad: 2vh 4vh;
+    width: 100%;
+    max-width: 70vh;
+}
+
+form h3{
+    font-size: 2vh;
+    text-align: center;
+    font-family :Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    color: white;
+}
+
+form input, form textarea{
+    border: 0;
+    margin: 5px 0;
+    padding: 10px;
+    outline: none;
+    background: white;
+    font-size: 16px;
+    resize: none;
+}
+
+form button{
+    padding: 15px;
+    background: red;
+    color: white;
+    font-size: 18px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    width: 150px;
+    margin: 20px auto 0;
+    border-radius: 30px;
+}

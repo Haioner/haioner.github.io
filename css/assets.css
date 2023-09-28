@@ -1,0 +1,138 @@
+.header-selections ul li:nth-child(2) a {
+    color: white;
+    text-shadow: 0px 3px 0px #161821;
+}
+
+/* Search ------------ */
+.search-bar {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#searchInput {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 30vw;
+    margin-right: 10px;
+    font-weight: bolder;
+    font-size: 1em;
+    vertical-align: middle;
+    text-align: center;
+    color: #161821;
+}
+
+#searchInput:focus {
+    outline: none;
+}
+
+#searchInput::selection {
+    background-color: #FF6E01; /* Defina a cor de fundo da seleção de texto */
+    color: #161821; /* Defina a cor do texto selecionado */
+}
+
+/* Assets ------------ */
+.assets-col {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.assets-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.asset-item {
+    flex: 0 0 calc(25% - 20px);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    padding: 0;
+    margin-bottom: 0px;
+}
+
+.assets-list p {
+    color: #161821;
+    font-family: ui-sans-serif, system-ui;
+    font-size: 2.5vh;
+    font-weight: bolder;
+    margin: 0;
+    transition: all 0.3s;
+}
+
+.name{
+    cursor: pointer;
+}
+
+.assets-list p:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.assets-list img {
+    border-bottom: 3px solid #161821;
+    border-radius: 10px;
+    width: 45vh;
+    transition: filter 0.3s;
+}
+
+.assets-list img:hover {
+    filter: brightness(0.5);
+    box-shadow: 0 0 10px rgba(255, 255, 254, 0.8) !important;
+    cursor: pointer;
+}
+
+.asset-item span{
+    font-family :ui-sans-serif,system-ui;
+    color: rgba(0, 0, 0, 0.500);
+    font-weight: bolder;
+    margin: 5px;
+}
+
+.asset-item span:nth-child(1){
+    margin: 0px;
+}
+
+.assets-list span:hover{
+    cursor: pointer;
+    color: white;
+    text-decoration: underline;
+}
+
+.asset-license {
+    position: absolute;
+    text-align: center;
+    background-color: white;
+    color: #161821 !important;
+    border-bottom: rgb(182, 182, 182) 2px solid;
+    font-size: 0.9em !important;
+    padding: 0.2em 0.7em;
+    border-radius: 10em;
+    z-index: 5;
+    transform: translateX(10%) translateY(30%);
+    text-decoration: none !important;
+    transition: all 0.5s;
+    cursor: default;
+}
+
+.asset-license:hover {
+    color: #161821 !important;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(209, 45, 0, 0.8);
+}
+
+@media screen and (max-width: 435px) {
+    .assets-list img {
+        width: 30vh;
+    }
+}
+
+@media screen and (max-width: 265px) {
+    .assets-list img {
+        width: 20vh;
+    }
+}
