@@ -57,6 +57,18 @@
     margin-bottom: 0px;
 }
 
+@media screen and (max-width: 800px) {
+    .asset-item{
+        height: 100%;
+    }
+}
+
+@media screen and (max-height: 800px) {
+    .asset-item{
+        height: 100%;
+    }
+}
+
 .assets-list p {
     color: #161821;
     font-family: ui-sans-serif, system-ui;
@@ -68,6 +80,11 @@
 
 .name{
     cursor: pointer;
+}
+
+.tags{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .assets-list p:hover {
@@ -88,15 +105,30 @@
     cursor: pointer;
 }
 
+@media screen and (max-width: 435px) {
+    .assets-list img {
+        width: 30vh;
+    }
+}
+
+@media screen and (max-width: 265px) {
+    .assets-list img {
+        width: 20vh;
+    }
+}
+
+@media screen and (max-width: 912px) {
+    .assets-list img{
+        width: 35vh;
+    }
+}
+
 .asset-item span{
     font-family :ui-sans-serif,system-ui;
     color: rgba(0, 0, 0, 0.500);
     font-weight: bolder;
-    margin: 5px;
-}
-
-.asset-item span:nth-child(1){
-    margin: 0px;
+    width: auto;
+    margin-right: 10px;
 }
 
 .assets-list span:hover{
@@ -121,20 +153,21 @@
     cursor: default;
 }
 
+@media screen and (max-width: 500px) {
+    .asset-license{
+        font-size: 0.7em !important;
+    }
+}
+
+@media screen and (max-height: 850px) {
+    .asset-license{
+        font-size: 0.5em !important;
+    }
+}
+
 .asset-license:hover {
     color: #161821 !important;
     background-color: white;
     box-shadow: 0 0 20px rgba(209, 45, 0, 0.8);
 }
 
-@media screen and (max-width: 435px) {
-    .assets-list img {
-        width: 30vh;
-    }
-}
-
-@media screen and (max-width: 265px) {
-    .assets-list img {
-        width: 20vh;
-    }
-}

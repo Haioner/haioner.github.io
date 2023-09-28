@@ -29,6 +29,12 @@
     margin-bottom: 0px;
 }
 
+@media screen and (max-height: 800px) {
+    .game-item{
+        height: 100%;
+    }
+}
+
 .games-list p{
     color: #161821;
     font-family :ui-sans-serif,system-ui;
@@ -60,6 +66,18 @@
     box-shadow: 0 0 10px rgba(255, 255, 254, 0.8) !important;
 }
 
+@media screen and (max-width: 435px) {
+    .games-list img{
+        width: 30vh;
+    }
+}
+
+@media screen and (max-height: 800px) {
+    .games-list img{
+        width: 20em;
+    }
+}
+
 .game-info{
     font-family :ui-sans-serif,system-ui;
     color: rgba(0, 0, 0, 0.500);
@@ -87,8 +105,3 @@
     box-shadow: 0 0 20px rgba(209, 45, 0, 0.8);
 }
 
-@media screen and (max-width: 435px) {
-    .games-list img{
-        width: 30vh;
-    }
-}

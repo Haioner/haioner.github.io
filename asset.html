@@ -41,16 +41,22 @@
 
     <!--Assets-->
     <div class="asset-col">
-        <img id="asset-thumbnail" src="" alt="Thumbnail">
-        <img id="asset-print" src="" alt="Print">
-        <h1 id="asset-title"></h1>
-        <p id="asset-category"></p>
-        <p id="asset-series"></p>
-        <p id="asset-tags"></p>
-        <p id="asset-assets"></p>
-        <p id="asset-releasedate"></p>
-        <p id="asset-license"></p>
-        <a download href="" id="asset-download"></a>    
+        <div class="informations-col">
+            <h1 id="asset-title"></h1>
+            <p id="asset-category"></p>
+            <p id="asset-series"></p>
+            <p id="asset-tags"></p>
+            <p id="asset-assets"></p>
+            <p id="asset-releasedate"></p>
+            <p id="asset-license"></p>
+            <div class="button-div">  <a class="download-button" download href="" id="asset-download"></a></div>
+          
+        </div>
+
+        <div class="images-col">
+            <img id="asset-thumbnail" src="" alt="Thumbnail">
+            <img id="asset-print" src="" alt="Print">
+        </div>     
     </div>
 
     <!--Footer-->
@@ -66,6 +72,7 @@
     </footer>
 
     <script src="./js/readasset.js"></script>
+    <script src="./js/fullscreenImage.js"></script>
 </body>
 
 </html>

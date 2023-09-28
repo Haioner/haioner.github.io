@@ -5,7 +5,7 @@
     align-items: center;
     flex-direction: column;
     background-color: #161821;
-    height: 37vh;
+    height: 100%;
 }
 
 form{
@@ -45,4 +45,10 @@ form button{
     width: 150px;
     margin: 20px auto 0;
     border-radius: 30px;
+}
+
+@media screen and (max-height: 800px) {
+    .Contact{
+ 
+    }
 }
