@@ -103,7 +103,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (selectedTag) params.append('tag', selectedTag);
         params.append('page', currentPage.toString());
         const queryString = params.toString();
-        const newURL = `${window.location.pathname}?${queryString}`;
+        const newURL = `${window.location.pathname.replace('.html', '')}?${queryString}`; // Remove .html from the URL
         window.history.pushState({ page: currentPage }, '', newURL);
     };
 
@@ -152,7 +152,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (selectedTag) params.append('tag', selectedTag);
         params.append('page', currentPage.toString());
         const queryString = params.toString();
-        const newURL = `${window.location.pathname}?${queryString}`;
+        const newURL = `${window.location.pathname.replace('.html', '')}?${queryString}`; // Remove .html from the URL
         window.history.pushState({ page: currentPage }, '', newURL);
     };
 
@@ -185,7 +185,7 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     const redirectToAssetDetails = (assetId) => {
-        window.location.href = `/asset.html?id=${assetId}`;
+        window.location.href = `/asset?id=${assetId}`;
     };
 
     fetch("/json/assets.json")
