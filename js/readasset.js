@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Função para redirecionar para a página "assets.html" com o filtro selecionado
     function redirectToAssetsPageWithFilter(filterType, filterValue) {
-        const url = new URL("/assets.html", window.location.href); // Substitua "/assets.html" pelo caminho correto da sua página
+        const url = new URL("/assets", window.location.href); // Remove a extensão .html
         url.searchParams.set(filterType, filterValue);
         window.location.href = url.href; // Redireciona na mesma aba
     }
