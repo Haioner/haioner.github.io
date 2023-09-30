@@ -1,15 +1,15 @@
 [
     {
       "id": 1,
-      "title": "Asset Placeholder",
-      "category" : "Placeholder",
-      "series" : "Placeholder",
-      "tags": ["place","holder"],
+      "title": "Furniture Pack",
+      "category" : "3D",
+      "series" : "Interior Essentials",
+      "tags": ["Furniture","Interior"],
       "assets" : "??x",
       "release-date" : "27/09/2023",
       "license" : "Creative Commons CC0",
       "license-link" : "https://creativecommons.org/",
-      "download": "/media/assets/test/testAssets.zip",
+      "download": "/media/assets/FurniturePack/FurniturePack.zip",
       "thumbnail": "/media/assets/test/test1.png",
       "print" : "/media/assets/test/test2.png"
     }
