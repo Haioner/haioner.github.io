@@ -3,14 +3,14 @@
       "id": 1,
       "title": "Furniture Pack",
       "category" : "3D",
-      "series" : "Interior Essentials",
+      "series" : "Minimalist Lowpoly",
       "tags": ["Furniture","Interior"],
-      "assets" : "??x",
-      "release-date" : "27/09/2023",
+      "assets" : "150x",
+      "release-date" : "07/10/2023",
       "license" : "Creative Commons CC0",
       "license-link" : "https://creativecommons.org/",
       "download": "/media/assets/FurniturePack/FurniturePack.zip",
-      "thumbnail": "/media/assets/test/test1.png",
-      "print" : "/media/assets/test/test2.png"
+      "thumbnail": "/media/assets/FurniturePack/Furniture-Preview.png",
+      "print" : "/media/assets/FurniturePack/Furniture-print.png"
     }
   ]
