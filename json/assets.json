@@ -1,16 +1,31 @@
 [
-    {
-      "id": 1,
-      "title": "Furniture Pack",
-      "category" : "3D",
-      "series" : "Minimalist Lowpoly",
-      "tags": ["Furniture","Interior"],
-      "assets" : "150x",
-      "release-date" : "10/07/2023",
-      "license" : "Creative Commons CC0",
-      "license-link" : "https://creativecommons.org/",
-      "download": "/media/assets/FurniturePack/FurniturePack.zip",
-      "thumbnail": "/media/assets/FurniturePack/Furniture-Preview.png",
-      "print" : "/media/assets/FurniturePack/Furniture-print.png"
-    }
+  {
+    "id": 2,
+    "title": "Magical Artifacts",
+    "category" : "3D",
+    "series" : "Pixel Magic",
+    "tags": ["Magical","Artifacts", "Items"],
+    "assets" : "35x",
+    "release-date" : "10/16/2023",
+    "license" : "Creative Commons CC0",
+    "license-link" : "https://creativecommons.org/",
+    "download": "/media/assets/MagicalArtifacts/MagicalArtifacts.zip",
+    "thumbnail": "/media/assets/MagicalArtifacts/Magical-Preview.png",
+    "print" : "/media/assets/MagicalArtifacts/Preview.png"
+  },
+  {
+    "id": 1,
+    "title": "Furniture Pack",
+    "category" : "3D",
+    "series" : "Minimalist Lowpoly",
+    "tags": ["Furniture","Interior"],
+    "assets" : "150x",
+    "release-date" : "10/07/2023",
+    "license" : "Creative Commons CC0",
+    "license-link" : "https://creativecommons.org/",
+    "download": "/media/assets/FurniturePack/FurniturePack.zip",
+    "thumbnail": "/media/assets/FurniturePack/Furniture-Preview.png",
+    "print" : "/media/assets/FurniturePack/Furniture-print.png"
+  }
+
   ]
