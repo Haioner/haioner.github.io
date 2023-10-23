@@ -20,6 +20,12 @@
     width: 20%;
 }
 
+@media screen and (max-width: 750px) {
+    .Donate div {
+        width: 100%;
+    }
+}
+
 .Donate h1{
     color: white;
     font-size: 2.3em;
