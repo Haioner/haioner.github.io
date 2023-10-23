@@ -61,12 +61,12 @@ body{
 }
 
 .redes-sociais ul li img{
-    transition: all 0.2s;
+    transition: transform 0.2s;
 }
 
 .redes-sociais ul li img:hover{
     transform: scale(1.2) rotate(10deg);
-    box-shadow: 0 0 8px rgba(243, 243, 243, 0.8);
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.4);
     border-radius: 20%;
 }
 

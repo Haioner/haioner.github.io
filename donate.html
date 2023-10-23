@@ -40,14 +40,31 @@
         <div class="Border"></div>
     </main>
     
-    <!--Background    -->
+    <!--Donate    -->
     <div class="Donate">
-        <h1>PIX</h1>
-        <div class="qr"><img src="./img/donatePix.png" alt=""></div>
-        <div class="copy"><button id="copy-button">Copy Code</button></div>
- 
+        <div class="AllAssets"> 
+            <img src="./img/AllAssets_icon.png">
+            <h1>All Assets</h1>
+            <a class="text-donate">You can support haioner by purchasing all-in-one assets</a>
+            <a class="button-a" href="https://haioner.itch.io/haioner-assets" target="_blank">Buy on itch.io</a>
+        </div>
+
+        <div class="Pix"> 
+            <img src="./img/Pix_icon.png">
+            <h1>Pix</h1>
+            <a class="text-donate">You can support haioner by donating a pix</a>
+            <button id="open-pix-button">Open Pix</button>
+        </div>
     </div>
 
+    <div class="pix-container">
+        <div class="close-button" id="close-pix-button">X</div>
+        <div class="pix-content">
+            <img src="./img/donatePix.png" alt="Pix Image">
+            <button id="copy-button">Copy Code</button>
+        </div>
+    </div>
+    
     <!--Footer-->
     <footer>
         <div class="footerdiv">
@@ -63,6 +80,7 @@
     
     <script src="./js/copy.js"></script>
     <script src="./js/removeExtension.js"></script>
+    <script src="./js/pix.js"></script>
 </body>
 
 </html>
