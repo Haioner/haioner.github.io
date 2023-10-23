@@ -1,5 +1,19 @@
 [
   {
+    "id": 3,
+    "title": "GunsAndBullets",
+    "category" : "2D",
+    "series" : "Pixel Weapons",
+    "tags": ["Weapons","Guns", "Bullets"],
+    "assets" : "107x",
+    "release-date" : "10/23/2023",
+    "license" : "Creative Commons CC0",
+    "license-link" : "https://creativecommons.org/",
+    "download": "/media/assets/GunsAndBullets/GunsAndBullets.zip",
+    "thumbnail": "/media/assets/GunsAndBullets/Weapons-Preview.png",
+    "print" : "/media/assets/GunsAndBullets/Weapons-Preview2.png"
+  },
+  {
     "id": 2,
     "title": "Magical Artifacts",
     "category" : "3D",
