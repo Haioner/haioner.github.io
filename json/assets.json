@@ -1,17 +1,31 @@
 [
   {
+    "id": 4,
+    "title": "Pixelated Particles Pack",
+    "category" : "2D",
+    "series" : "Pixel Particles",
+    "tags": ["Particles","Explosions", "Pixel"],
+    "assets" : "55x",
+    "release-date" : "29/10/2023",
+    "license" : "Creative Commons CC0",
+    "license-link" : "https://creativecommons.org/",
+    "download": "/media/assets/PixelatedParticlesPack/PixelatedParticlesPack.zip",
+    "thumbnail": "/media/assets/PixelatedParticlesPack/PixelParticles-Preview.png",
+    "preview" : "/media/assets/PixelatedParticlesPack/VideoPreview.mp4"
+  },
+  {
     "id": 3,
     "title": "GunsAndBullets",
     "category" : "2D",
     "series" : "Pixel Weapons",
     "tags": ["Weapons","Items", "Guns"],
     "assets" : "107x",
-    "release-date" : "10/23/2023",
+    "release-date" : "23/10/2023",
     "license" : "Creative Commons CC0",
     "license-link" : "https://creativecommons.org/",
     "download": "/media/assets/GunsAndBullets/GunsAndBullets.zip",
     "thumbnail": "/media/assets/GunsAndBullets/Weapons-Preview.png",
-    "print" : "/media/assets/GunsAndBullets/Weapons-Preview2.png"
+    "preview" : "/media/assets/GunsAndBullets/Weapons-Preview2.png"
   },
   {
     "id": 2,
@@ -20,12 +34,12 @@
     "series" : "Pixel Magic",
     "tags": ["Magical","Artifacts", "Items"],
     "assets" : "35x",
-    "release-date" : "10/16/2023",
+    "release-date" : "16/10/2023",
     "license" : "Creative Commons CC0",
     "license-link" : "https://creativecommons.org/",
     "download": "/media/assets/MagicalArtifacts/MagicalArtifacts.zip",
     "thumbnail": "/media/assets/MagicalArtifacts/Magical-Preview.png",
-    "print" : "/media/assets/MagicalArtifacts/Preview.png"
+    "preview" : "/media/assets/MagicalArtifacts/Preview.png"
   },
   {
     "id": 1,
@@ -34,12 +48,12 @@
     "series" : "Minimalist Lowpoly",
     "tags": ["Furniture","Interior"],
     "assets" : "150x",
-    "release-date" : "10/07/2023",
+    "release-date" : "07/10/2023",
     "license" : "Creative Commons CC0",
     "license-link" : "https://creativecommons.org/",
     "download": "/media/assets/FurniturePack/FurniturePack.zip",
     "thumbnail": "/media/assets/FurniturePack/Furniture-Preview.png",
-    "print" : "/media/assets/FurniturePack/Furniture-print.png"
+    "preview" : "/media/assets/FurniturePack/Furniture-print.png"
   }
 
   ]

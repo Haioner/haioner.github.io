@@ -44,7 +44,19 @@ document.addEventListener("DOMContentLoaded", function () {
                     // Atualizar os elementos HTML com as informações do asset
                     assetThumbnail.src = asset.thumbnail;
                     assetThumbnail.alt = asset.title;
-                    assetPrint.src = asset.print;
+                    // Verificar se o conteúdo de impressão é uma imagem ou um vídeo
+                    if (asset.preview.endsWith(".mp4")) {
+                        // Se for um vídeo, crie um elemento de vídeo
+                        const video = document.createElement("video");
+                        video.src = asset.preview;
+                        video.controls = true;
+                        assetPrint.appendChild(video);
+                    } else {
+                        // Caso contrário, crie um elemento de imagem
+                        const image = document.createElement("img");
+                        image.src = asset.preview;
+                        assetPrint.appendChild(image);
+                    }
                     assetTitle.textContent = asset.title;
 
                     // Verificar se a categoria e a série existem e, em seguida, atualizá-las
