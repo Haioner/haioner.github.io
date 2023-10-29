@@ -9,7 +9,7 @@ assetPrint.addEventListener("click", openFullscreenImage);
 // Função para exibir uma imagem ou vídeo em tela cheia com tamanho máximo de 1000x500 e responsiva
 function openFullscreenImage(event) {
     // Verifique se o elemento clicado é um vídeo
-    if (event.target.tagName === "VIDEO") {
+    if (event.target.tagName === "VIDEO" || event.target.tagName == "DIV") {
         return; // Não faz nada se for um vídeo
     }
 
