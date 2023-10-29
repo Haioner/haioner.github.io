@@ -143,6 +143,10 @@
     #asset-print img{
         width: 40vw;
     }
+
+    #asset-print video{
+        width: 40vw;
+    }
 }
 
 /*Fullscreen image */
