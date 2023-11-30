@@ -1,4 +1,18 @@
 [
+    {
+    "id": 5,
+    "title": "First Person Controller",
+    "category" : "3D",
+    "series" : "Unity Assets",
+    "tags": ["Controller","Scripts", "Manager"],
+    "assets" : "1x",
+    "release-date" : "29/11/2023",
+    "license" : "Creative Commons CC0",
+    "license-link" : "https://creativecommons.org/",
+    "download": "/media/assets/FirstPerson/FirstPerson.zip",
+    "thumbnail": "/media/assets/FirstPerson/FirstPerson-Preview.png",
+    "preview" : "/media/assets/FirstPerson/VideoPreview.mp4"
+  },
   {
     "id": 4,
     "title": "Pixelated Particles Pack",
