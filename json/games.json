@@ -1,5 +1,12 @@
 [
     {
+        "name": "DinoDream",
+        "thumbnail": "/img/games/DinoDream.png",
+        "site": "https://haioner.itch.io/dinodream",
+        "plataform": "Browser",
+        "border-color": "#00FF09"
+    },
+    {
         "name": "SandBeat",
         "thumbnail": "/img/games/SandBeat.png",
         "site": "https://haioner.itch.io/sandbeat",
