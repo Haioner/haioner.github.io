@@ -1,5 +1,12 @@
 [
     {
+        "name": "Bloodline Chronicles",
+        "thumbnail": "/img/games/BloodlineChronicles.png",
+        "site": "https://haioner.itch.io/bloodline-chronicles",
+        "plataform": "Browser",
+        "border-color": "#00FF09"
+    },
+    {
         "name": "DinoDream",
         "thumbnail": "/img/games/DinoDream.png",
         "site": "https://haioner.itch.io/dinodream",
