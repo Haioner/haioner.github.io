@@ -1,5 +1,23 @@
 [
   {
+    "id": 7,
+    "title": "Meele Weapons",
+    "category": "2D",
+    "series": "Pixel Weapons",
+    "tags": [
+      "Weapons",
+      "Items",
+      "Swords", "Meele"
+    ],
+    "assets": "100x",
+    "release-date": "22/03/2024",
+    "license": "Creative Commons CC0",
+    "license-link": "https://creativecommons.org/",
+    "download": "/media/assets/MeeleWeapons/MeeleWeapons.zip",
+    "thumbnail": "/media/assets/MeeleWeapons/MeeleWeaponsPreview.png",
+    "preview": "/media/assets/MeeleWeapons/MeeleWeaponsVideo.mp4"
+  },
+  {
     "id": 6,
     "title": "Options Manager",
     "category": "UI",
@@ -55,7 +73,7 @@
   },
   {
     "id": 3,
-    "title": "GunsAndBullets",
+    "title": "Guns & Bullets",
     "category": "2D",
     "series": "Pixel Weapons",
     "tags": [
