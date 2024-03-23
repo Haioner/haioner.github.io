@@ -5,9 +5,9 @@
     "category": "2D",
     "series": "Pixel Weapons",
     "tags": [
-      "Weapons",
       "Items",
-      "Swords", "Meele"
+      "Pixel",
+      "Weapons"
     ],
     "assets": "100x",
     "release-date": "22/03/2024",
@@ -77,9 +77,9 @@
     "category": "2D",
     "series": "Pixel Weapons",
     "tags": [
-      "Weapons",
       "Items",
-      "Guns"
+      "Pixel",
+      "Weapons"
     ],
     "assets": "107x",
     "release-date": "23/10/2023",
