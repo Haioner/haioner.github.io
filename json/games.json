@@ -1,5 +1,12 @@
 [
     {
+        "name": "Undeadgeon",
+        "thumbnail": "/img/games/Undeadgeon.png",
+        "site": "https://haioner.itch.io/undeadgeon",
+        "plataform": "Browser",
+        "border-color": "#00FF09"
+    },
+    {
         "name": "Soul Guide",
         "thumbnail": "/img/games/SoulGuide.png",
         "site": "https://haioner.itch.io/soulguide",
