@@ -1,5 +1,12 @@
 [
     {
+        "name": "ThirtyTwo",
+        "thumbnail": "/img/games/ThirtyTwo.png",
+        "site": "https://haioner.itch.io/thirtytwo",
+        "plataform": "Browser",
+        "border-color": "#00FF09"
+    },
+    {
         "name": "Undeadgeon",
         "thumbnail": "/img/games/Undeadgeon.png",
         "site": "https://haioner.itch.io/undeadgeon",
