@@ -1,12 +1,11 @@
 [
   {
     "id": 8,
-    "title": "Pixel Walls Topdown",
+    "title": "Pixel Topdown Walls",
     "category": "2D",
     "series": "Pixel 32",
     "tags": [
       "Topdown",
-      "Tile",
       "Walls",
       "Pixel"
     ],
@@ -14,9 +13,9 @@
     "release-date": "14/07/2024",
     "license": "Creative Commons CC0",
     "license-link": "https://creativecommons.org/",
-    "download": "/media/assets/WallsTopdownTile/WallsTopdownTile.zip",
-    "thumbnail": "/media/assets/WallsTopdownTile/TilePreview.png",
-    "preview": "/media/assets/WallsTopdownTile/TilePreview2.png"
+    "download": "/media/assets/WallsTopdownTile/PixelTopdownWalls.zip",
+    "thumbnail": "/media/assets/WallsTopdownTile/Preview.png",
+    "preview": "/media/assets/WallsTopdownTile/Preview2.png"
   },
   {
     "id": 7,
