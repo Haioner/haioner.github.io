@@ -1,13 +1,14 @@
 [
   {
     "id": 8,
-    "title": "WALLS TOPDOWN Tile",
+    "title": "Pixel Walls Topdown",
     "category": "2D",
     "series": "Pixel 32",
     "tags": [
       "Topdown",
       "Tile",
-      "Walls"
+      "Walls",
+      "Pixel"
     ],
     "assets": "1x",
     "release-date": "14/07/2024",
