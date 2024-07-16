@@ -1,5 +1,23 @@
 [
   {
+    "id": 9,
+    "title": "Poly Weapons Series 1",
+    "category": "3D",
+    "series": "Minimalist Lowpoly",
+    "tags": [
+      "Weapons",
+      "Lowpoly",
+      "Items"
+    ],
+    "assets": "37x",
+    "release-date": "07/15/2024",
+    "license": "Creative Commons CC0",
+    "license-link": "https://creativecommons.org/",
+    "download": "/media/assets/PolyWeaponsSeries1/PolyWeapons_Series1.zip",
+    "thumbnail": "/media/assets/PolyWeaponsSeries1/Preview.png",
+    "preview": "/media/assets/PolyWeaponsSeries1/VideoPreview.mp4"
+  },
+  {
     "id": 8,
     "title": "Pixel Topdown Walls",
     "category": "2D",
@@ -10,7 +28,7 @@
       "Pixel"
     ],
     "assets": "1x",
-    "release-date": "14/07/2024",
+    "release-date": "07/14/2024",
     "license": "Creative Commons CC0",
     "license-link": "https://creativecommons.org/",
     "download": "/media/assets/PixelTopdownWalls/PixelTopdownWalls.zip",
