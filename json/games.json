@@ -1,5 +1,12 @@
 [
     {
+        "name": "Neurons",
+        "thumbnail": "/img/games/Neurons.png",
+        "site": "https://haioner.itch.io/neurons",
+        "plataform": "Browser",
+        "border-color": "#00FF09"
+    },
+    {
         "name": "ThirtyTwo",
         "thumbnail": "/img/games/ThirtyTwo.png",
         "site": "https://haioner.itch.io/thirtytwo",
