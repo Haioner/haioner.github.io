@@ -1,5 +1,12 @@
 [
     {
+        "name": "Legends and Souls",
+        "thumbnail": "/img/games/LegendsAndSouls.png",
+        "site": "https://haioner.itch.io/legendsandsouls",
+        "plataform": "Browser",
+        "border-color": "#00FF09"
+    },
+    {
         "name": "Neurons",
         "thumbnail": "/img/games/Neurons.png",
         "site": "https://haioner.itch.io/neurons",
