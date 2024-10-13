@@ -1,4 +1,11 @@
-[
+[   
+    {
+        "name": "Weaker Of All",
+        "thumbnail": "/img/games/WeakerOfAll.png",
+        "site": "https://haioner.itch.io/weakerofall",
+        "plataform": "Browser",
+        "border-color": "#00FF09"
+    },
     {
         "name": "Legends and Souls",
         "thumbnail": "/img/games/LegendsAndSouls.png",
