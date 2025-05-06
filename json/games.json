@@ -1,5 +1,12 @@
 [   
     {
+        "name": "Banana Boom",
+        "thumbnail": "/img/games/BananaBoom.png",
+        "site": "https://www.crazygames.com/preview/d9778049-1985-4895-8612-f5c67d61790f",
+        "plataform": "Browser",
+        "border-color": "#00FF09"
+    },
+    {
         "name": "Weaker Of All",
         "thumbnail": "/img/games/WeakerOfAll.png",
         "site": "https://haioner.itch.io/weakerofall",
