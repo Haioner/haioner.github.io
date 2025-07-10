@@ -1,5 +1,19 @@
 [   
     {
+        "name": "Replace IT",
+        "thumbnail": "/img/games/ReplaceIT.png",
+        "site": "https://haioner.itch.io/replace-it",
+        "plataform": "Browser",
+        "border-color": "#00FF09"
+    },
+    {
+        "name": "Sacrifice Break",
+        "thumbnail": "/img/games/Sacrifice Break.png",
+        "site": "https://haioner.itch.io/sacrifice-break",
+        "plataform": "Browser",
+        "border-color": "#00FF09"
+    },
+    {
         "name": "Banana Boom",
         "thumbnail": "/img/games/BananaBoom.png",
         "site": "https://www.crazygames.com/preview/d9778049-1985-4895-8612-f5c67d61790f",
