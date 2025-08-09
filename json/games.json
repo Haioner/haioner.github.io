@@ -1,5 +1,12 @@
 [   
     {
+        "name": "Valhart",
+        "thumbnail": "/img/games/Valhart.png",
+        "site": "https://haioner.itch.io/valhart",
+        "plataform": "Browser",
+        "border-color": "#00FF09"
+    },
+    {
         "name": "Only I Stop",
         "thumbnail": "/img/games/OnlyIStop.png",
         "site": "haioner.itch.io/only-i-stop",
