@@ -1,5 +1,12 @@
 [   
     {
+        "name": "Exile Life",
+        "thumbnail": "/img/games/ExileLife.png",
+        "site": "https://haioner.itch.io/exile-life",
+        "plataform": "Browser",
+        "border-color": "#00FF09"
+    },
+    {
         "name": "Valhart",
         "thumbnail": "/img/games/Valhart.png",
         "site": "https://haioner.itch.io/valhart",
