@@ -1,5 +1,12 @@
 [   
     {
+        "name": "Croaking",
+        "thumbnail": "/img/games/Croaking.png",
+        "site": "https://haioner.itch.io/croaking",
+        "plataform": "Browser",
+        "border-color": "#00FF09"
+    },
+    {
         "name": "Exile Life",
         "thumbnail": "/img/games/ExileLife.png",
         "site": "https://haioner.itch.io/exile-life",
